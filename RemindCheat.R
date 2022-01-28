@@ -45,4 +45,4 @@ cheat <- function(Q_number) {
 }
 
 cheat("Q3.1.10")
-
+cheat("Q3.1.12")
